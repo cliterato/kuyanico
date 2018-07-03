@@ -1,0 +1,22 @@
+
+.c-logo
+{
+	max-width: 200px;
+	display: inline-block;
+}
+.mrgn-btom-1em
+{
+	margin-bottom: 1em;
+}
+
+@media (max-width: 769px)
+{
+	.text-left
+	{
+		text-align: center !important;
+	}
+	.text-right
+	{
+		text-align: center !important;
+	}
+}
